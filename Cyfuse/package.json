@@ -1,0 +1,18 @@
+{
+  "name": "cyfuse",
+  "version": "1.0.0",
+  "description": "Interview Task",
+  "main": "background.js",
+  "scripts": {
+    "start": "node background.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niles",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "firebase": "^10.11.0",
+    "node": "^18.20.2"
+  }
+}
